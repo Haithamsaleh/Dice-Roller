@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
 
 
         rollBtu.setOnClickListener{
-            val toast = Toast.makeText(this,"hello there!", Toast.LENGTH_SHORT)
+            val toast = Toast.makeText(this,"hello there!!", Toast.LENGTH_SHORT)
             toast.show()
         }
     }
